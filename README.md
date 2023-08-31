@@ -35,7 +35,7 @@ bundle install
 
 ### Running the app
 
-In order to start the application, BADSEC development server has to be start first. Please using this docker command to start the server:
+In order to start the application, BADSEC development server has to be started first. Please use this docker command to start the server:
 
 ```sh
 docker run --rm -p 8888:8888 adhocteam/noclist
@@ -46,6 +46,7 @@ When BADSEC server has been started, please run the script the following script:
 ```sh
 bin/run
 ```
+
 ### Running specs
 
 In order to run Rspec specs, please use the following command:
