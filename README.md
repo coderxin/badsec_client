@@ -1,5 +1,7 @@
 # BadsecClient
 
+[![Ruby](https://github.com/coderxin/badsec_client/actions/workflows/main.yml/badge.svg)](https://github.com/coderxin/badsec_client/actions/workflows/main.yml)
+
 Retrieves the user ID list from the BADSEC server and outputs it in JSON format.
 
 > ## Noclist
